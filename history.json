@@ -1,0 +1,48 @@
+{
+  "7473181250": [
+    {
+      "time": "2025-10-08T00:42:52.281830",
+      "event": "promoted",
+      "note": "level=1"
+    },
+    {
+      "time": "2025-10-08T00:43:22.766116",
+      "event": "demoted",
+      "note": ""
+    }
+  ],
+  "7545943197": [
+    {
+      "time": "2025-10-08T00:54:46.899683",
+      "event": "unwarn",
+      "note": "Cleared by admin"
+    },
+    {
+      "time": "2025-10-08T00:54:55.442658",
+      "event": "unwarn",
+      "note": "Cleared by admin"
+    },
+    {
+      "time": "2025-10-08T00:54:58.098686",
+      "event": "unwarn",
+      "note": "Cleared by admin"
+    },
+    {
+      "time": "2025-10-08T00:54:59.028637",
+      "event": "unwarn",
+      "note": "Cleared by admin"
+    }
+  ],
+  "6014114521": [
+    {
+      "time": "2025-10-08T00:55:35.700006",
+      "event": "promoted",
+      "note": "level=2"
+    },
+    {
+      "time": "2025-10-08T00:55:45.591274",
+      "event": "demoted",
+      "note": ""
+    }
+  ]
+}
